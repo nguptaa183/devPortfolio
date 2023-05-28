@@ -1,4 +1,4 @@
-// CERTIFICATIONS
+// CERTIFICATIONS or AWARDS or HONORS
 export const certifications = [
   {
     id: 1,

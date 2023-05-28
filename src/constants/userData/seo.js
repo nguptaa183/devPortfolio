@@ -1,18 +1,21 @@
 // SEO
-export const googleAnalyticsID = "G-C6BXHN2JEJ";
 export const themeColor = "#6b63ff";
 export const backgroundColor = "#ffffff";
+
+// Provide handle name
 export const socialSEO = {
-  facebook: "nguptaa183",
-  twitter: "@ngupta183",
+  facebook: "xyz",
+  twitter: "xyz",
 };
+
+// Provide handle url
 export const socialLinks = {
-  twitter: "https://twitter.com/ngupta183",
-  github: "https://github.com/nguptaa183",
-  linkedin: "hhttps://www.linkedin.com/in/nguptaa183/",
-  instagram: "https://www.instagram.com/aayannikhil/",
-  stackoverflow: "https://stackoverflow.com/users/7291780/nikhil-gupta",
-  facebook: "https://www.facebook.com/nguptaa183",
+  twitter: "https://twitter.com/xyz",
+  github: "https://github.com/xyz",
+  linkedin: "hhttps://www.linkedin.com/in/xyz/",
+  instagram: "https://www.instagram.com/xyz/",
+  stackoverflow: "https://stackoverflow.com/users/7291780/xyz",
+  facebook: "https://www.facebook.com/xyz",
 };
 export const address = {
   city: "",
@@ -21,7 +24,7 @@ export const address = {
   zipCode: "",
 };
 export const contact = {
-  email: "contact@nikhilgupta.me",
+  email: "",
   phone: "",
 };
-export const foundingDate = "2016";
+export const foundingDate = "2023";

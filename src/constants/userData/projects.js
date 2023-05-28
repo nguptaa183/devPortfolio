@@ -1,11 +1,12 @@
 // PROJECTS
-export const useGithubProjects = true;
+export const useGithubProjects = false;
 
 // GITHUB PROJECTS
-export const githubUsername = "nguptaa183";
+// Provide GitHub username
+export const githubUsername = useGithubProjects ? "xyz" : "";
 
 // CUSTOM PROJECTS
-// If you're not using GitHub set "useGithubProjects = false";
+// If you're not using GitHub set "useGithubProjects = false" and add projects below;
 export const projects = [
   {
     id: 1,

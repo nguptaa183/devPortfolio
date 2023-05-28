@@ -1,4 +1,5 @@
 // SKILLS
+// Provide your skills
 export const skills = [
   {
     id: 1,
