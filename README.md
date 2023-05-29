@@ -2,7 +2,9 @@
 Modular developer portfolio website build with ReactJS
 
 ## Demo link:
-[nikhilgupta.me](https://nikhilgupta.me)
+[https://nikhilgupta.me](https://nikhilgupta.me)
+
+![nikhil portfolio image](https://github.com/nguptaa183/devPortfolio/assets/22504975/b17d0b79-609f-4600-952e-3c5de8acd825)
 
 ## Table of Content:
 - [About](#about)
@@ -22,9 +24,11 @@ Modular developer portfolio website build with ReactJS
 - Add EmailJS [email service](https://www.emailjs.com/docs/tutorial/adding-email-service/)
 - Setup EmailJS [email template](https://www.emailjs.com/docs/tutorial/adding-email-service/) referring image below
 - Template contents
+
 ![template contents image](https://github.com/nguptaa183/devPortfolio/assets/22504975/c3de12f1-28da-437c-a9a9-46b7259757ae)
 
 - Template Auto Reply
+
 ![template auto reply image](https://github.com/nguptaa183/devPortfolio/assets/22504975/2afeaf84-d32d-4c03-92fd-eaf2f03208a0)
 
 - Get your EmailJS [service ID](https://dashboard.emailjs.com/admin), [template ID](https://dashboard.emailjs.com/admin/templates) and [public key](https://dashboard.emailjs.com/admin/account)
