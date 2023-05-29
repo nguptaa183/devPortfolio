@@ -53,7 +53,7 @@ Modular developer portfolio website build with ReactJS
 - If not, publish using [GitHub Pages](https://pages.github.com/), follow these [steps](https://github.com/gitname/react-gh-pages#3-install-the-gh-pages-npm-package)
 
 ## Credits
-- [Inspiration by Smakosh](https://github.com/smakosh/gatsby-portfolio-dev)
+- Inspiration by [Smakosh](https://github.com/smakosh/gatsby-portfolio-dev)
 - Icons by [SimpleIcons](https://simpleicons.org) and [FontAwesome](https://fontawesome.com/search)
 - Dummy Logo by [Flaticon](https://www.flaticon.com/)
 - [EmailJS](https://www.emailjs.com/) for sending email directly from contact form
